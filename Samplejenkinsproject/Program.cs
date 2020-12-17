@@ -11,7 +11,7 @@ namespace Samplejenkinsproject
         static void Main(string[] args)
         {
             Console.WriteLine("hello vaish");
-            Console.WriteLine("hello jenkins changes made")
+            Console.WriteLine("hello jenkins changes made");
         }
     }
 }
